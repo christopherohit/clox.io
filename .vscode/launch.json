@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Admin_View<Result-Management-System_3ba26815>",
+            "request": "launch",
+            "mainClass": "Students.Admin_View",
+            "projectName": "Result-Management-System_3ba26815"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Admin_login<Result-Management-System_3ba26815>",
+            "request": "launch",
+            "mainClass": "Students.Admin_login",
+            "projectName": "Result-Management-System_3ba26815"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Admin_option<Result-Management-System_3ba26815>",
+            "request": "launch",
+            "mainClass": "Students.Admin_option",
+            "projectName": "Result-Management-System_3ba26815"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Home<Result-Management-System_3ba26815>",
+            "request": "launch",
+            "mainClass": "Students.Home",
+            "projectName": "Result-Management-System_3ba26815"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Insert_Marks<Result-Management-System_3ba26815>",
+            "request": "launch",
+            "mainClass": "Students.Insert_Marks",
+            "projectName": "Result-Management-System_3ba26815"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Result<Result-Management-System_3ba26815>",
+            "request": "launch",
+            "mainClass": "Students.Result",
+            "projectName": "Result-Management-System_3ba26815"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Student_Details<Result-Management-System_3ba26815>",
+            "request": "launch",
+            "mainClass": "Students.Student_Details",
+            "projectName": "Result-Management-System_3ba26815"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Student_login<Result-Management-System_3ba26815>",
+            "request": "launch",
+            "mainClass": "Students.Student_login",
+            "projectName": "Result-Management-System_3ba26815"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Admin_View<Result-Management-System>",
+            "request": "launch",
+            "mainClass": "Students.Admin_View",
+            "projectName": "Result-Management-System"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Admin_login<Result-Management-System>",
+            "request": "launch",
+            "mainClass": "Students.Admin_login",
+            "projectName": "Result-Management-System"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Admin_option<Result-Management-System>",
+            "request": "launch",
+            "mainClass": "Students.Admin_option",
+            "projectName": "Result-Management-System"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Home<Result-Management-System>",
+            "request": "launch",
+            "mainClass": "Students.Home",
+            "projectName": "Result-Management-System"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Insert_Marks<Result-Management-System>",
+            "request": "launch",
+            "mainClass": "Students.Insert_Marks",
+            "projectName": "Result-Management-System"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Result<Result-Management-System>",
+            "request": "launch",
+            "mainClass": "Students.Result",
+            "projectName": "Result-Management-System"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Student_Details<Result-Management-System>",
+            "request": "launch",
+            "mainClass": "Students.Student_Details",
+            "projectName": "Result-Management-System"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Student_login<Result-Management-System>",
+            "request": "launch",
+            "mainClass": "Students.Student_login",
+            "projectName": "Result-Management-System"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DocsConnectionPropsHelper<Result-Management-System>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.DocsConnectionPropsHelper",
+            "projectName": "Result-Management-System"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ErrorMappingsDocGenerator<Result-Management-System>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.util.ErrorMappingsDocGenerator",
+            "projectName": "Result-Management-System"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PropertiesDocGenerator<Result-Management-System>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.util.PropertiesDocGenerator",
+            "projectName": "Result-Management-System"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TimezoneDump<Result-Management-System>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.util.TimezoneDump",
+            "projectName": "Result-Management-System"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VersionFSHierarchyMaker<Result-Management-System>",
+            "request": "launch",
+            "mainClass": "com.mysql.jdbc.util.VersionFSHierarchyMaker",
+            "projectName": "Result-Management-System"
+        }
+    ]
+}
